@@ -1,0 +1,2 @@
+# sms-ham-or-spam-classifications-
+The SMS Spam Collection is a set of SMS tagged messages that have been collected for SMS Spam research. It is a real SMS dataset with a spam/ham label for each message. Someone might contact you through an old school way of SMS and you might even skip it because the amount of the spam in your inbox is just way too much. The SMS is classified as spam and is collected through the user's report for unwanted SMS.
